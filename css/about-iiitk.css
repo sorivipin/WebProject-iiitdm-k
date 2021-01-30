@@ -1,0 +1,27 @@
+.main {
+    width:70%;
+    margin-left: 15%;
+    text-align: center;
+}
+.main h2{
+    color: darkviolet;
+    padding-top: 20px;
+    height: 50px;
+}
+.main p{
+    color: rgb(39, 102, 219);
+    padding-top: 10px;
+    text-align: justify;
+}
+.main img{
+    padding:1rem ;
+    width: 90%;
+}
+.main h3{
+    height: 40px;
+    padding-top: 20px;
+
+}
+#landmarks{
+    text-align: center;
+}
