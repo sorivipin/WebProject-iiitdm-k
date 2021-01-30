@@ -1,0 +1,38 @@
+.main {
+    width:80%;
+    margin-left: 9%;
+    margin-right: 9%;
+    background-color:rgb(235, 227, 238);
+    padding-bottom: 20px;
+}
+.main h2{
+    text-align: center;
+    color: purple;
+}
+.main h3{
+    text-align: center;
+    padding-top: 20px;
+}
+.main h4, .main a{
+    text-align: justify;
+    padding: 20px;
+}
+.main p{
+    padding: 10px;
+    text-align: justify;
+}
+.tab1{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: rebeccapurple solid 1px;
+    border-collapse: collapse;
+}
+.tab1 th {
+    padding: 10px;
+    border-bottom: rebeccapurple solid 1px;
+}
+.tab1 td {
+    padding: 10px;
+    border-collapse: collapse;
+    border: rebeccapurple solid 1px;
+}

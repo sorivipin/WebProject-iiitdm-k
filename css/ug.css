@@ -1,0 +1,32 @@
+.main {
+    width:80%;
+    margin-left: 9%;
+    margin-right: 9%;
+    background-color:rgb(235, 227, 238);
+    padding-bottom: 20px;
+}
+.main h2{
+    text-align: center;
+}
+.main h3{
+    text-align: center;
+    padding-top: 20px;
+}
+.main h4{
+    text-align: justify;
+    padding: 20px;
+}
+.main a{
+    padding: 10px;
+}
+
+.main p{
+    padding: 10px;
+    text-align: justify;
+}
+.main ol, .main ul{
+    padding-left: 15%;
+}
+.main li {
+    padding-top: 20px;
+}

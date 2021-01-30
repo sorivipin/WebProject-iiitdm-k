@@ -1,0 +1,14 @@
+.main {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 40px;
+}
+.main h2 {
+    padding-top: 40px;
+    text-align: center;
+}
+.main h3{
+    padding-top: 30px;
+    text-align: center;
+}

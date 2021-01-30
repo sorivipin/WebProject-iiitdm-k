@@ -1,0 +1,42 @@
+.main {
+    width: 90%;
+    margin-left:5%;
+    margin-right: 5%;
+    padding-bottom: 40px;
+}
+.tab1 {
+    font-family: arial, sans-serif;
+    
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+} 
+.tab1 a {
+    color: #000;
+    text-decoration: none;
+}
+.main h2 {
+    padding-top: 40px;
+    text-align: center;
+}
+.main h3 {
+    padding-top: 10px;
+    text-align: center;
+}
+td{
+    
+    text-align: center;
+    padding: 8px;
+  }
+th {
+    background-color: rgb(212, 204, 216);
+    back
+    text-align: center;
+    padding: 8px;
+}
+
+.tab1 a:hover {
+    color: green;
+}
+tr:nth-child(even) {background: #E7E6E6}
+tr:nth-child(odd) {background: #FFF}
